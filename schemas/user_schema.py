@@ -1,4 +1,3 @@
-
 from pydantic import BaseModel, EmailStr, Field
 from typing import List
 from uuid import UUID
